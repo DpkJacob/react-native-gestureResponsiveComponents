@@ -1,6 +1,7 @@
 # react-native-gestureResponsiveComponents
 A project with the objective of making components such as Views,Images and Text responsive to various gestures such as pinch to scale, drag and drop and rotation.
 The project enables a component to work similar to how an instagram story stickers work.
+The project works using only javascript and does not rely on other libraries or native modules, It is accomplished using react native PanResponder alone.
 
 ### note:
 The project is not in the npm install phase yet, you could go in to app/components/mainPage.js and all the necessary functions are made available in an understandable format.
